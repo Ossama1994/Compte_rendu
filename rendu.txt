@@ -1,0 +1,6 @@
+Pendant la journnée j'ai pu avoir une vision sur le programme de la 2ème année y inclus les grands termes
+associées au Java ainsi que un échange intéressant d'infos (perso & techniques) et expérience professionnelles avec mes collégues. Aprés midi je me suis documenté sur Java , une définiton 
+générale de cette derniére, le mise à nivaux de nouvellles versions , JVM (java virtual machine) JRE (java runtime environment) JDK (java development kit) sont trois composants 
+indispensable pour la plate-fomre java.Le terme Java collection désine une liste où on peut collectionner et manipuler un groupe d'objets (ArrayList ,LinkedList ,Hashmap,Hashset).
+Lançez premier programe java (hello World)
+ 
