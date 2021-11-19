@@ -1,0 +1,6 @@
+   
+   
+   A la matinée d'ajourdhui, nous avons un petit rappel de ce qu'on a fait le mercredi ,Ensuite
+   une documentation s'est faite sur le syntaxe du code java ,les différents collections (arrays et listes)
+   Comme exeples de collections on trouve Hashset , Hashmap , Array , ArrayList .
+   J'ai commencé le programme asseigné à nous . 
