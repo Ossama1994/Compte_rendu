@@ -1,0 +1,7 @@
+
+
+
+      
+      Pour la séance d'aujourd'hui , j'ai vu les variables , comment ils sont déclarer et initialiser
+      aussi que les différents var à savoir les primitives, instance , static, types de référence (string , array). Différencier entre Java 8 et Java 11
+      les nouvelles fonctialités . En cours de trouver  une solution pour le programme (découverte java)
