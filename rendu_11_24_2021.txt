@@ -1,0 +1,5 @@
+           
+      
+                 J'ai met le breif (decouverte java) sur simplon , j'ai fait un petit recherche sur uml (conception uml).
+                 L'uml et ses similiratés par rapport java orienté objet .je viens de créer un compte sur jira et de se documenter 
+                 comment réeliser un user story map.J'ai commencé unn tutoriel de POSTGRES sur la plateforme amigoscode.com.
