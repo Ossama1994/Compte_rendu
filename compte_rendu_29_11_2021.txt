@@ -1,0 +1,6 @@
+  
+ 
+    On a vu avec notre collégue Abdelaziz le veille dont le sijet est Le JavaFx ou bien
+    Généralement les applications desktop  , En suite concernant le brief on a commencé par 
+    La gestion du projet dans Jira Software , La création du diagramme de classes en travaillant 
+    En groupe .  
