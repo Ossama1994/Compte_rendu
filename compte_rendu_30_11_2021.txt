@@ -1,0 +1,10 @@
+     
+      
+  
+              Pour la séance d'aujourd'hui j'ai continué à travailler sur le brief en modifiant user stories dans Jira , par la suite j'ai commencé le diagramme de classe
+              en mettant en place les classes et les proprietés dans l'application du modeling de data (Entreprise architect) , en parallele je me documente sur l'oop (java)
+              On a vu avec Abdelhamid le diagram (Er) pour modeling data .
+
+
+
+ 
