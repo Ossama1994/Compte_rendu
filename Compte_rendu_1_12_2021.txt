@@ -1,0 +1,7 @@
+  
+  
+       Je me suis documenté sur quelques bases de java (code) à savoir comment declarer une methode
+       pourquoi le method main est elle static et public , comment declarer un interface et implementer ses methodes 
+       dans d'autres classe aussi que les annotations comme par exemple (@override) , Java language keywords.
+       j'ai assisté au veill Test fonctionel manuel et automatisé.
+       
