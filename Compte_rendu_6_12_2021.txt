@@ -1,0 +1,6 @@
+  
+  
+       A propos de la séance d'aujourd'hui notre collègue Aimade nous a prénsenté un veil sur Teste unitaire Java ,de suite
+       j'ai commencé le brief en créantun diagramme de classe pour eclaircir un petie peu le sujet , aprés j'ai crée les classes demandées
+       Je compte le terminer demain . Une documentation est faite sur la class enum en Java11
+       
