@@ -1,0 +1,15 @@
+    
+   
+  
+     Pour aujourd'hui , j'ai découvert comment créer une liste de type class ou bien comment cr
+     créer une liste en java à partir d'une classe mère en prenant des objet des classes filles 
+     comme element de cette liste  
+
+      Voilà un exemple :
+          ArrayList<Carte> rawCards  = new ArrayList<Carte>();
+	  rawCards.add(new Creaturs("dribi",0,20));
+     Ainsi que le concept (implicite et explicite casting) en Java.
+     
+     J'ai des difficultés concernant le brief carte .
+     
+     
